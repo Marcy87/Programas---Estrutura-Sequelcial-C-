@@ -1,0 +1,15 @@
+C:\Users\marce\OneDrive\Desktop\C# projetos\Program1019\Program1019\bin\Debug\net6.0\Program1019.exe
+C:\Users\marce\OneDrive\Desktop\C# projetos\Program1019\Program1019\bin\Debug\net6.0\Program1019.deps.json
+C:\Users\marce\OneDrive\Desktop\C# projetos\Program1019\Program1019\bin\Debug\net6.0\Program1019.runtimeconfig.json
+C:\Users\marce\OneDrive\Desktop\C# projetos\Program1019\Program1019\bin\Debug\net6.0\Program1019.dll
+C:\Users\marce\OneDrive\Desktop\C# projetos\Program1019\Program1019\bin\Debug\net6.0\Program1019.pdb
+C:\Users\marce\OneDrive\Desktop\C# projetos\Program1019\Program1019\obj\Debug\net6.0\Program1019.csproj.AssemblyReference.cache
+C:\Users\marce\OneDrive\Desktop\C# projetos\Program1019\Program1019\obj\Debug\net6.0\Program1019.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\OneDrive\Desktop\C# projetos\Program1019\Program1019\obj\Debug\net6.0\Program1019.AssemblyInfoInputs.cache
+C:\Users\marce\OneDrive\Desktop\C# projetos\Program1019\Program1019\obj\Debug\net6.0\Program1019.AssemblyInfo.cs
+C:\Users\marce\OneDrive\Desktop\C# projetos\Program1019\Program1019\obj\Debug\net6.0\Program1019.csproj.CoreCompileInputs.cache
+C:\Users\marce\OneDrive\Desktop\C# projetos\Program1019\Program1019\obj\Debug\net6.0\Program1019.dll
+C:\Users\marce\OneDrive\Desktop\C# projetos\Program1019\Program1019\obj\Debug\net6.0\refint\Program1019.dll
+C:\Users\marce\OneDrive\Desktop\C# projetos\Program1019\Program1019\obj\Debug\net6.0\Program1019.pdb
+C:\Users\marce\OneDrive\Desktop\C# projetos\Program1019\Program1019\obj\Debug\net6.0\Program1019.genruntimeconfig.cache
+C:\Users\marce\OneDrive\Desktop\C# projetos\Program1019\Program1019\obj\Debug\net6.0\ref\Program1019.dll
