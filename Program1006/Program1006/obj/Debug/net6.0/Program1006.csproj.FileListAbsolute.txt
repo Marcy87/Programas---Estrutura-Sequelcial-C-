@@ -1,0 +1,15 @@
+C:\Users\marce\OneDrive\Desktop\C# projetos\Program1006\Program1006\bin\Debug\net6.0\Program1006.exe
+C:\Users\marce\OneDrive\Desktop\C# projetos\Program1006\Program1006\bin\Debug\net6.0\Program1006.deps.json
+C:\Users\marce\OneDrive\Desktop\C# projetos\Program1006\Program1006\bin\Debug\net6.0\Program1006.runtimeconfig.json
+C:\Users\marce\OneDrive\Desktop\C# projetos\Program1006\Program1006\bin\Debug\net6.0\Program1006.dll
+C:\Users\marce\OneDrive\Desktop\C# projetos\Program1006\Program1006\bin\Debug\net6.0\Program1006.pdb
+C:\Users\marce\OneDrive\Desktop\C# projetos\Program1006\Program1006\obj\Debug\net6.0\Program1006.csproj.AssemblyReference.cache
+C:\Users\marce\OneDrive\Desktop\C# projetos\Program1006\Program1006\obj\Debug\net6.0\Program1006.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\OneDrive\Desktop\C# projetos\Program1006\Program1006\obj\Debug\net6.0\Program1006.AssemblyInfoInputs.cache
+C:\Users\marce\OneDrive\Desktop\C# projetos\Program1006\Program1006\obj\Debug\net6.0\Program1006.AssemblyInfo.cs
+C:\Users\marce\OneDrive\Desktop\C# projetos\Program1006\Program1006\obj\Debug\net6.0\Program1006.csproj.CoreCompileInputs.cache
+C:\Users\marce\OneDrive\Desktop\C# projetos\Program1006\Program1006\obj\Debug\net6.0\Program1006.dll
+C:\Users\marce\OneDrive\Desktop\C# projetos\Program1006\Program1006\obj\Debug\net6.0\refint\Program1006.dll
+C:\Users\marce\OneDrive\Desktop\C# projetos\Program1006\Program1006\obj\Debug\net6.0\Program1006.pdb
+C:\Users\marce\OneDrive\Desktop\C# projetos\Program1006\Program1006\obj\Debug\net6.0\Program1006.genruntimeconfig.cache
+C:\Users\marce\OneDrive\Desktop\C# projetos\Program1006\Program1006\obj\Debug\net6.0\ref\Program1006.dll
